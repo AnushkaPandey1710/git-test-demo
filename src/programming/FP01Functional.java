@@ -8,7 +8,7 @@ public class FP01Functional {
 		// TODO Auto-generated method stub
 		
 		List<String> courses= List.of("Spring","Spring Boot","AWS","Azure","DevOps","API");
-		System.out.println("checking with git demo");
+		System.out.println("checking with git demo" +Constants.NAME);
 		printCourses(courses);
 	//	printOddNumbersInListFunctional(List.of(12, 4, 2, 23, 78, 14, 17));
 		//printSquareOfEvenNumbersInListFunctional(List.of(12, 4, 2, 23));
